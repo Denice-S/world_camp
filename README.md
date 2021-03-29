@@ -30,7 +30,9 @@ Platforms:
 2. Heroku for hosting the app
 3. MongoDB Atlas for hosting the mongo database
 
+### Credits:
 
+All images on the site are from unsplash
 
 
 ---
