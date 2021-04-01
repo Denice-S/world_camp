@@ -48,14 +48,20 @@
                 </div>
 
                 <div class="mb-3">
-                    <button class="btn btn-success">Submit</button>
+                    <button id="preloaderbutton" class="btn btn-success">Submit</button>
+                    <div id="spinner">
+                        <h4 class="wait">Please wait creating campsite</h4>
+                        <img src="/images/arrow.gif">
+                    </div>
                 </div>
+
+
 
             </form>
         </div>
     </div>
-    <footer> <a href="/campsites">All Campsites</a></footer>
-    <script src="" async defer></script>
+
+    <script src="/scripts/loading.js" async defer></script>
 
 
     <!-- // Example starter JavaScript for disabling form submissions if there are invalid fields
