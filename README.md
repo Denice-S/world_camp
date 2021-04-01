@@ -1,7 +1,7 @@
 # World Camp
 
 
-### This is a full CRUD express app that showcases camping sites around the world.The app is hosted on Heroku with a mongoDB atlas database.
+### This is a full CRUD express app that showcases camping sites around the world.The app is hosted on Heroku with a mongoDB atlas database. This is still a work in progress.
 [World Camp](https://secret-springs-92057.herokuapp.com/)
 
 
@@ -30,7 +30,9 @@ Platforms:
 2. Heroku for hosting the app
 3. MongoDB Atlas for hosting the mongo database
 
+### Credits:
 
+All images on the site are from unsplash
 
 
 ---
